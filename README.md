@@ -7,6 +7,10 @@ A step-by-step guide to install and run this Python bot.
 
 ### 🔧 1. Clone the Repository
 
+````
+git clone https://github.com/ZonaAirdrop/Uomi-Bot.git
+cd Uomi-Bot
+````
 
 ### 📦 2. Install Dependencies
 
